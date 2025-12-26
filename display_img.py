@@ -1,3 +1,5 @@
+#pip install streamlit pillow
+
 import streamlit as st
 from PIL import Image
 st.title("image display")
